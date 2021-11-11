@@ -16,4 +16,4 @@ Just a REPOSITORY for testing and learning
  - **git commit -m "Commit message"**: To commit a change in the local repo.
  - **git push [alias] [branch]**: To send the commits to the remote repo.
  - **git remote**: To get the aliases of the remote repos.
- - **git remote -v**: To get the aliases of the remote repos with thier link...
+ - **git remote -v**: To get the aliases of the remote repos with thier link.
