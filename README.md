@@ -1,4 +1,4 @@
-# testing
+# Testing
 
 Just a REPOSITORY for testing and learning
 
